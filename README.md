@@ -1,4 +1,4 @@
-!### Hi there !👋EU SOU  O  DANTES008
+OII!!! Eu sou o JOÃO
 
 - 🔭 em busca de uma vaga jr 
 - 🌱 I’m currently learning  react 
