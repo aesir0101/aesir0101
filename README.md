@@ -1,6 +1,7 @@
-## OLÁ! EU sou Dantes008
+## OLÁ! EU sou Pedro 
 🌴De riso em riso a gente chega no paraíso.
-•👨🏼‍💻 análise e desenvolvimento de sistemas.
+• cursando 👨🏼‍💻 análise e desenvolvimento de sistemas.
+
 
   <a href="https://beacons.ai/Dantes008">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dantes008&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,8 +15,7 @@
   
   
   ">
-  <img align="center" alt="dante-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="dante-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="dante-Ts" height="30" width="40" src="[(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)">
   <img align="center" alt="dante-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dante-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
