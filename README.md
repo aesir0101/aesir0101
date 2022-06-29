@@ -1,4 +1,4 @@
-## OLÁ! EU sou Pedro 
+## OLÁ!! EU sou Pedro 
 🌴De riso em riso a gente chega no paraíso.
 • cursando 👨🏼‍💻 análise e desenvolvimento de sistemas.
 
