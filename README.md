@@ -1,6 +1,7 @@
 ## OLÁ!! EU sou Pedro 
+🧑‍💻developer front end.
 🌴De riso em riso a gente chega no paraíso.
-• cursando 👨🏼‍💻 análise e desenvolvimento de sistemas.
+🌱estudando REACT,TYPESCRYPT,NODE.JS
 
 
   <a href="https://beacons.ai/Dantes008">
