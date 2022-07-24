@@ -19,7 +19,7 @@
   <img align="center" alt="Pedro-react" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img align="center" alt="Pedro-typescript" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="Pedro-node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="right" alt="pedro-go-to-sleep-bed-gif"height="150" style="border-radius:50px;" src ="https://discord.com/channels/@me/987861763842248715/1000881717944516790">
+<img align="right" alt="Pedro-gif" src ="[https://discord.com/channels/@me/987861763842248715/1000883736239419433](https://discord.com/channels/@me/987861763842248715/1000881717944516790)">
 </div>
 
   
