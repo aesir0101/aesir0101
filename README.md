@@ -5,8 +5,8 @@
 
 
   <a href="https://beacons.ai/Dantes008">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dantes008&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantes008&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dantes008&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantes008&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 
 
