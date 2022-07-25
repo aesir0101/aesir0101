@@ -1,7 +1,7 @@
 ## OLÁ!! EU sou Pedro 
-🧑‍💻developer front end.
+🧑‍💻developer Front end.
 🌴De riso em riso a gente chega no paraíso.
-🌱estudando REACT,TYPESCRYPT,NODE.JS
+🌱Aprendendo REACT,TYPESCRYPT,NODE.JS
 
 
   <a href="https://beacons.ai/Dantes008">
@@ -19,7 +19,7 @@
   <img align="center" alt="Pedro-react" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img align="center" alt="Pedro-typescript" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="Pedro-node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="right" alt="Pedro-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84733192/180677269-8d761d80-2209-4716-bec6-3d8f2687e2b1.mp4">
+ 
 </div>
 
   
@@ -33,6 +33,7 @@
   <a href="https://www.linkedin.com/in/ximenesjpdq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![180678060-1846e1ee-f774-42f3-8dca-d8d5217debce.gif](https://user-images.githubusercontent.com/101739492/180678957-017dc996-a7b9-4b23-997d-d82557bd49b3.gif)
 </div>
 
 
