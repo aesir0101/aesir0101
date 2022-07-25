@@ -18,7 +18,8 @@
   <img align="center" alt="Pedro-bootstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the badge&logo=bootstrap&logoColor=white"> 
   <img align="center" alt="Pedro-react" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img align="center" alt="Pedro-typescript" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img align="center" alt="Pedro-node.js" height="30" width="40" src=https://github.com/Dantes008/Dantes008/issues/1#issue-1316078889">
+   <img align="center" alt="Pedro-node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+   <img align="right" alt="Pedro-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84733192/180677269-8d761d80-2209-4716-bec6-3d8f2687e2b1.mp4">
 </div>
 
   
