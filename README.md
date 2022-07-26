@@ -1,7 +1,8 @@
 ## OLÁ!! EU sou Pedro 
-🧑‍💻developer Front end.
-🌴De riso em riso a gente chega no paraíso.
-🌱Aprendendo REACT,TYPESCRYPT,NODE.JS
+🖥️ developer Front end.
+🧑‍💻 Estudante da Faculdade da Vida.
+🤓 Pensador que não pensa
+🌱Aprendendo REACT,TYPESCRYPT,NODE.JS 
 
 
   <a href="https://beacons.ai/Dantes008">
