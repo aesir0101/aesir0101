@@ -1,8 +1,9 @@
 ## OLÁ!! EU sou Pedro 
-
 ### -🖥️ developer Front end.
 ### -🧑‍💻 Estudante da Faculdade da Vida.
 ### -🤓 Pensador que não pensa
+
+![original](https://user-images.githubusercontent.com/84733192/181079494-dd9f2c04-d580-4afd-b14e-bc311629a928.gif)
 
  <div align="justify">
   <a href="https://beacons.ai/Dantes008">
