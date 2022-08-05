@@ -1,7 +1,7 @@
 ## OLÁ!! EU sou Pedro 
 ### -🖥️ developer Front end.
-### -🧑‍💻 Estudante da Faculdade da Vida.
-### -🤓 Pensador que não pensa
+### -🧑‍💻 Análise e desenvolvimento de sistemas
+### -🚀 O que fazemos na vida ecoa na eternidade
 
 ![original](https://user-images.githubusercontent.com/84733192/181079494-dd9f2c04-d580-4afd-b14e-bc311629a928.gif)
 
