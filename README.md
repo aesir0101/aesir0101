@@ -8,7 +8,7 @@
 
 ### Sobre Mim
 
-Olá, sou Pedro, um apaixonado por programação e um entusiasta da criação de experiências digitais incríveis. Atualmente, estou dedicando meus esforços para me aprimorar como desenvolvedor front-end enquanto sigo meu caminho no curso de Análise e Desenvolvimento de Sistemas.
+Olá, sou João Pedro, um apaixonado por programação e um entusiasta da criação de experiências digitais incríveis. Atualmente, estou dedicando meus esforços para me aprimorar como desenvolvedor front-end enquanto sigo meu caminho no curso de Análise e Desenvolvimento de Sistemas.
 
 ### O Que Faço
 
