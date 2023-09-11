@@ -1,4 +1,4 @@
-## Olá, eu sou João Pedro! 👋
+## Salve, jovem gafanhoto! 🦗 Bora ver o que eu ando codando por aqui? 👀! 
 
 - 🖥️ Desenvolvedor Front-End.
 - 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
