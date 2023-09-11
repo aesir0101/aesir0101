@@ -1,18 +1,45 @@
-## OLÁ!! EU sou Pedro 
-### -🖥️ developer Front end.
-### -🧑‍💻 Análise e desenvolvimento de sistemas
-### -🚀 O que fazemos na vida ecoa na eternidade
+## Olá, eu sou João Pedro! 👋
+
+- 🖥️ Desenvolvedor Front-End.
+- 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🚀 Acredito que o que fazemos na vida ecoa na eternidade.
 
 ![original](https://user-images.githubusercontent.com/84733192/181079494-dd9f2c04-d580-4afd-b14e-bc311629a928.gif)
 
- <div align="justify">
+### Sobre Mim
+
+Olá, sou Pedro, um apaixonado por programação e um entusiasta da criação de experiências digitais incríveis. Atualmente, estou dedicando meus esforços para me aprimorar como desenvolvedor front-end enquanto sigo meu caminho no curso de Análise e Desenvolvimento de Sistemas.
+
+### O Que Faço
+
+💻 Como desenvolvedor front-end, tenho o privilégio de dar vida a interfaces web atraentes e funcionais. Transformo ideias criativas em código, buscando sempre aprimorar a usabilidade e proporcionar a melhor experiência aos usuários.
+
+### Minha Filosofia
+
+🚀 Acredito que nossas ações têm um impacto duradouro, por isso, me esforço para criar soluções de qualidade e contribuir para projetos que possam deixar um legado positivo no mundo digital.
+
+### Estatísticas do GitHub
+
+<div align="center">
   <a href="https://beacons.ai/Dantes008">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dantes008&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantes008&layout=compact&langs_count=16&theme=blue-green"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dantes008&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  </a>
+  <a href="https://beacons.ai/Dantes008">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantes008&layout=compact&langs_count=16&theme=blue-green" alt="Principais Linguagens">
+  </a>
 </div>
 
+### Tecnologias que Estou Estudando:
 
-  ### Tecnologias que estou estudando:
+- JavaScript
+- HTML5
+- CSS3
+- React
+- Vue.js
+- E muito mais!
+
+Vamos trabalhar juntos em projetos incríveis! 👨‍💻
+
   <div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
