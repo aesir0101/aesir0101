@@ -22,10 +22,10 @@ Olá, sou João Pedro, um apaixonado por programação e um entusiasta da criaç
 
 <div align="center">
   <a href="https://beacons.ai/Dantes008">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dantes008&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dantes008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
   </a>
   <a href="https://beacons.ai/Dantes008">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantes008&layout=compact&langs_count=16&theme=blue-green" alt="Principais Linguagens">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantes008&layout=compact&langs_count=16&theme=tokyonight" alt="Principais Linguagens">
   </a>
 </div>
 
@@ -41,29 +41,26 @@ Olá, sou João Pedro, um apaixonado por programação e um entusiasta da criaç
 Vamos trabalhar juntos em projetos incríveis! 👨‍💻
 
   <div style="display: inline_block"><br> 
-  <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
- <img align="center" alt="Pedro-node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  
-<img align="center" alt="Pedro-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Pedro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Pedro-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Pedro-Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="right" alt="pedro-gif" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp">
 
 
   
 ###
-  
-</div>
+  <h1 align="center">Redes Sociais</h1>
+
    <a href="https://www.instagram.com/aesir0101/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href="https://www.linkedin.com/in/ximenesjpdq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/ximenesjpdq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </a>  
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 
-
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
