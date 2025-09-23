@@ -1,4 +1,3 @@
-meu código GitHub
 
 ## Salve, jovem gafanhoto! 🦗 Bora ver o que eu ando codando por aqui? 👀! 
 
