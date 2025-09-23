@@ -31,13 +31,6 @@ Olá, sou João Pedro, um apaixonado por programação e um entusiasta da criaç
 
 ### Tecnologias que Estou Estudando:
 
-- JavaScript
-- HTML5
-- CSS3
-- React
-- Vue.js
-- E muito mais!
-
 Vamos trabalhar juntos em projetos incríveis! 👨‍💻
 
   <div style="display: inline_block"><br> 
