@@ -1,3 +1,5 @@
+meu código GitHub
+
 ## Salve, jovem gafanhoto! 🦗 Bora ver o que eu ando codando por aqui? 👀! 
 
 - 🖥️ Desenvolvedor Front-End.
@@ -16,7 +18,7 @@ Olá, sou João Pedro, um apaixonado por programação e um entusiasta da criaç
 
 ### Minha Filosofia
 
-🚀 Acredito que nossas ações têm um impacto duradouro, por isso, me esforço para criar soluções de qualidade e contribuir para projetos que possam deixar um legado positivo no mundo digital.
+##### ⚓ Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos
 
 ### Estatísticas do GitHub
 <div align="center">
