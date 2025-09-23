@@ -48,7 +48,6 @@ Vamos trabalhar juntos em projetos incríveis! 👨‍💻
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="right" alt="pedro-gif" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp">
 
-
   
 ###
   <h1 align="center">Redes Sociais</h1>
