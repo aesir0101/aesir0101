@@ -4,7 +4,7 @@
 - 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🚀 Acredito que o que fazemos na vida ecoa na eternidade.
 
-![original](https://user-images.githubusercontent.com/84733192/181079494-dd9f2c04-d580-4afd-b14e-bc311629a928.gif)
+![original](https://pfst.cf2.poecdn.net/base/image/c9235cee95da543ecf40126e92d7170a9728dfa9663fcf7e46eff5d070d49512?w=791&h=422&pmaid=472782600)
 
 ### Sobre Mim
 
@@ -28,31 +28,23 @@ Olá, sou João Pedro, um apaixonado por programação e um entusiasta da criaç
   </a>
 </div>
 
-
 ### Tecnologias que Estou Estudando:
 
 Vamos trabalhar juntos em projetos incríveis! 👨‍💻
 
-  <div style="display: inline_block"><br> 
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="right" alt="pedro-gif" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp">
+   <p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,vue,mysql,netlify,figma," />
+  </a>
+         <img align="right" alt="pedro-gif" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp">
 
-  
-###
-  <h1 align="center">Redes Sociais</h1>
+</p>
 
-   <a href="https://www.instagram.com/aesir0101/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### 
+<h1 align="center">Redes Sociais</h1>
 
-  <a href="https://www.linkedin.com/in/ximenesjpdq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </a>  
-  
- </div>
+<a href="https://www.instagram.com/aesir0101/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ximenesjpdq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-
-
+### Contribuições no GitHub
+![Animação](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
