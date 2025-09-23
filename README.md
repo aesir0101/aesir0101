@@ -4,7 +4,7 @@
 - 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🚀 Acredito que o que fazemos na vida ecoa na eternidade.
 
-![original](https://pfst.cf2.poecdn.net/base/image/c9235cee95da543ecf40126e92d7170a9728dfa9663fcf7e46eff5d070d49512?w=791&h=422&pmaid=472782600)
+![gif github 2](https://github.com/user-attachments/assets/2fe8a2bc-e6b2-4bb3-96dc-00b343d5dc5c)
 
 ### Sobre Mim
 
