@@ -21,10 +21,10 @@ Olá, sou João Pedro, um apaixonado por programação e um entusiasta da criaç
 ### Estatísticas do GitHub
 <div align="center">
   <a href="https://beacons.ai/aesir0101">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aesir0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aesir0101&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
   </a>
   <a href="https://beacons.ai/aesir0101">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aesir0101&layout=compact&langs_count=16&theme=tokyonight" alt="Principais Linguagens">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aesir0101&layout=compact&langs_count=16&theme=merko" alt="Principais Linguagens">
   </a>
 </div>
 
