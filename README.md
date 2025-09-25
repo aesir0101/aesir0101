@@ -1,8 +1,5 @@
 
 ## Salve, jovem gafanhoto! 🦗 Bora ver o que eu ando codando por aqui? 
-![z7](https://github.com/user-attachments/assets/e211c218-27c5-4668-9cde-3a685ec430d1)
-
-
 - 🖥️ Desenvolvedor Front-End.
 - 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🚀 Acredito que o que fazemos na vida ecoa na eternidade.
