@@ -1,5 +1,5 @@
 
-## Salve, jovem gafanhoto! 🦗 Bora ver o que eu ando codando por aqui? 👀! 
+## Salve, jovem gafanhoto! 🦗 Bora ver o que eu ando codando por aqui? <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 - 🖥️ Desenvolvedor Front-End.
 - 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
@@ -11,7 +11,7 @@
 
 Olá, sou João Pedro, um apaixonado por programação e um entusiasta da criação de experiências digitais incríveis. Atualmente, estou dedicando meus esforços para me aprimorar como desenvolvedor front-end enquanto sigo meu caminho no curso de Análise e Desenvolvimento de Sistemas.
 
-### O Que Faço
+### O Que Faço <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 💻 Como desenvolvedor front-end, tenho o privilégio de dar vida a interfaces web atraentes e funcionais. Transformo ideias criativas em código, buscando sempre aprimorar a usabilidade e proporcionar a melhor experiência aos usuários.
 
