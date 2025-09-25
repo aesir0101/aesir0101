@@ -1,5 +1,7 @@
 
-## Salve, jovem gafanhoto! 🦗 Bora ver o que eu ando codando por aqui? <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+## Salve, jovem gafanhoto! 🦗 Bora ver o que eu ando codando por aqui? 
+![z7](https://github.com/user-attachments/assets/e211c218-27c5-4668-9cde-3a685ec430d1)
+
 
 - 🖥️ Desenvolvedor Front-End.
 - 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
