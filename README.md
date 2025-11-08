@@ -1,13 +1,12 @@
 # 👋 Salve, jovem gafanhoto! 🦗  
-Bora ver o que eu ando codando por aqui?
+Você já se perguntou como as ideias se transformam em experiências digitais incríveis? Bem-vindo ao meu mundo de programação!
 
-![GIF do cachorro programador](https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif)
+![GIF do cachorro programador](https://pfst.cf2.poecdn.net/base/image/1ce6eb906ae48ee8a891de8702c0e4544db7afeb44d57aacb2ebdc794b69dcdc?w=500&h=430&pmaid=507074153)
 
 ---
 
 ## 👨‍💻 Sobre Mim
-Olá, sou **João Pedro**, apaixonado por programação e entusiasta da criação de experiências digitais incríveis.  
-Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedor front-end** enquanto sigo meu caminho no curso de **Análise e Desenvolvimento de Sistemas**.
+Olá, sou **João Pedro**, um apaixonado por programação e entusiasta da criação de experiências digitais incríveis. Atualmente, estou me aprimorando como **desenvolvedor front-end** e seguindo meu caminho no curso de **Análise e Desenvolvimento de Sistemas**.
 
 ### O Que Faço
 💻 Como desenvolvedor front-end, transformo ideias criativas em interfaces web atraentes e funcionais, sempre buscando **melhorar a usabilidade** e proporcionar a melhor experiência aos usuários.  
@@ -15,19 +14,24 @@ Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedo
 ---
 
 ### ⚓ Minha Filosofia
-> Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos.
+> "Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos."
 
-![GIF do barco motivacional](https://i.pinimg.com/originals/d3/5c/cc/d35cccf675f3c9f4394f511ba7a22501.gif)
+![GIF do barco motivacional](https://pfst.cf2.poecdn.net/base/image/f897f77c361588d7b2fd82d47d3d82d3c86fae537a95d65d478b45e7bd1bc47b?w=500&h=312&pmaid=507074152)
 
 ---
 
-### Tecnologias que Estou Estudando: Vamos trabalhar juntos em projetos incríveis! 👨‍💻
+### Tecnologias que Estou Estudando
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,vue,mysql,netlify,figma," />
   </a>
-  <img align="right" alt="pedro-gif" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp">
 </p>
+
+---
+
+### 🚀 Projetos em Destaque
+- [Projeto 1](link): Descrição breve.
+- [Projeto 2](link): Descrição breve.
 
 ---
 
@@ -47,6 +51,7 @@ Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedo
 <p align="center">
   <a href="https://www.instagram.com/aesir0101/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ximenesjpdq/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/aesir0101"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
