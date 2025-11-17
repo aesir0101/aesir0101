@@ -10,7 +10,8 @@ Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedo
 ---
 
 ### ⚓ Minha Filosofia
-> Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos.  
+> Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos.
+> https://media1.tenor.com/m/SYXPzffo7vAAAAAC/ship-pirate-ship.gif
 
 ---
 
