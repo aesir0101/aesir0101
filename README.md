@@ -1,4 +1,4 @@
-# Salve, jovem gafanhoto! ![Inside Out – GIF de boas-vindas](https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif) 🦗
+# ![Inside Out – GIF de boas-vindas](https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif) Salve, jovem gafanhoto!  🦗
   
 ## 👨‍💻 Sobre Mim
 Olá, sou **João Pedro**, apaixonado por programação e entusiasta da criação de experiências digitais incríveis.  
