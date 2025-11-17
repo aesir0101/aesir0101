@@ -4,6 +4,9 @@
 Olá, sou **João Pedro**, apaixonado por programação e entusiasta da criação de experiências digitais incríveis.  
 Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedor front-end** enquanto sigo meu caminho no curso de **Análise e Desenvolvimento de Sistemas**.
 
+![gif github 2](https://github.com/user-attachments/assets/f951be81-0c0d-4b5f-a274-18fce6cabce6)
+
+
 ### O Que Faço
 💻 Como desenvolvedor front-end, transformo ideias criativas em interfaces web atraentes e funcionais, sempre buscando **melhorar a usabilidade** e proporcionar a melhor experiência aos usuários.  
 
