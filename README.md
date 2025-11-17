@@ -14,9 +14,8 @@ Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedo
 
 ### ⚓ Minha Filosofia
 > Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos.
-<img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/4ee11ba3-9ee5-4852-8927-de319f5bf51b" />
-
----
+>
+> ![gif github 2](https://media1.tenor.com/m/SYXPzffo7vAAAAAC/ship-pirate-ship.gif)
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
