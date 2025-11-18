@@ -7,13 +7,13 @@ Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedo
 ![gif github 2](https://github.com/user-attachments/assets/f951be81-0c0d-4b5f-a274-18fce6cabce6)
 
 
-### O Que Faço
+## O Que Faço
 💻 Como desenvolvedor front-end, transformo ideias criativas em interfaces web atraentes e funcionais, sempre buscando **melhorar a usabilidade** e proporcionar a melhor experiência aos usuários.  
 
 ---
 
-### ⚓ Minha Filosofia
-> Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos.
+## ⚓ Minha Filosofia
+> ### Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos.
 >
 > ![gif github 2](https://media1.tenor.com/m/SYXPzffo7vAAAAAC/ship-pirate-ship.gif)
 
