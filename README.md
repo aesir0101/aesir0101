@@ -1,6 +1,6 @@
-# ![Inside Out – GIF de boas-vindas](https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif) Salve, jovem gafanhoto!  🦗
+# Salve, jovem gafanhoto!  🦗
   
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim  ![Inside Out – GIF de boas-vindas](https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif)
 Olá, sou **João Pedro**, apaixonado por programação e entusiasta da criação de experiências digitais incríveis.  
 Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedor front-end** enquanto sigo meu caminho no curso de **Análise e Desenvolvimento de Sistemas**.
 
@@ -11,11 +11,6 @@ Atualmente, estou dedicando meus esforços para me aprimorar como **desenvolvedo
 💻 Como desenvolvedor front-end, transformo ideias criativas em interfaces web atraentes e funcionais, sempre buscando **melhorar a usabilidade** e proporcionar a melhor experiência aos usuários.  
 
 ---
-
-## ⚓ Minha Filosofia
-> ### Quem se firma em Deus não teme perder-se, pois até os desertos se tornam caminho quando Ele guia os passos.
->
-> ![gif github 2](https://media1.tenor.com/m/SYXPzffo7vAAAAAC/ship-pirate-ship.gif)
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
